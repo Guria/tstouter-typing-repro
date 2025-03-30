@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+public
+dist
+dist-ssr
+*.local
+*.gen.*
+coverage
+__screenshots__
